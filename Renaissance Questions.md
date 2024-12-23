@@ -1,5 +1,5 @@
 
-### Section 1: Causes of the Renaissance
+## Section 1: Causes of the Renaissance
 1. **Explain how the capture of Constantinople contributed to the beginning of the Renaissance.**
 2. **Discuss the role of the decline of feudalism in fostering the spirit of inquiry during the Renaissance.**
 3. **What was the impact of new trade routes discovered by navigators like Columbus and Magellan on European society?**
