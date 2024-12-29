@@ -31,6 +31,8 @@
    - **Strategic Planning**: Creating robust business plans with contingency strategies.  
    - **Networking**: Building relationships with mentors, investors, and stakeholders to gain support and guidance.
 
+---
+
 ### **Entrepreneurship – An Innovation**
 
 #### **Challenges of Innovation**
@@ -74,6 +76,8 @@ Entrepreneurs require a unique blend of personal traits and skills to succeed. K
 5. **Resilience**: Perseverance in overcoming setbacks and learning from failures.  
 6. **Leadership**: Inspiring and motivating teams to achieve shared objectives.  
 7. **Adaptability**: Flexibility to adjust strategies in response to changing market conditions.  
+
+---
 
 ### **Idea Incubation**
 
@@ -138,6 +142,8 @@ Harvesting strategies focus on maximizing returns from a business or product at 
 - **Definition**: Reducing investments in declining ventures to optimize cash flow and profits.  
 - **Purpose**: Prepare for market exit or transition resources to newer opportunities.  
 - **Example**: A company scaling down production of outdated technology while investing in emerging innovations.
+
+---
 
 ### **Information**
 
@@ -204,6 +210,8 @@ Entrepreneurs today face evolving responsibilities due to technological advancem
 
 Closing the window on challenges means aligning strategies with changing environments while maintaining resilience and a forward-thinking mindset. 
 Entrepreneurs must embrace their dynamic roles to drive both business success and societal development.
+
+---
 
 ### **Project Management**
 
@@ -273,10 +281,10 @@ The project life cycle consists of four distinct phases, each critical to the su
      - Release resources and communicate project outcomes to stakeholders.  
    - **Key Outputs**: Final Project Report, Lessons Learned, Resource Handover.
 
----
-
 Effective project management ensures that objectives are met within constraints, providing value to stakeholders and maintaining alignment with organizational goals. 
 Each phase of the project life cycle is crucial for delivering quality outcomes and mitigating risks.
+
+---
 
 ### **Project Feasibility Studies**
 
@@ -364,10 +372,10 @@ Defines the project’s boundaries, including deliverables, timelines, and objec
 - **Phases**: Conceptualization, design, implementation, testing, and closure.  
 - Helps in managing resources and addressing issues incrementally.
 
----
-
 Project feasibility studies and meticulous planning form the foundation for successful project execution. 
 They ensure alignment with organizational goals, minimize risks, and optimize resource use, contributing to project efficiency and effectiveness.
+
+---
 
 ### **Project Scheduling and Costing**
 
