@@ -387,8 +387,6 @@ Risk mitigation is crucial for project success as it minimizes the impact of pot
 
 ---
 
-### **Group C Questions and Answers**
-
 **Question 6**  
 Elaborate on the role of feasibility studies in ensuring project viability.  
 
@@ -518,7 +516,6 @@ Generating project ideas involves creativity, research, and analysis to identify
    - Example: Developing new features based on app reviews.  
 
 ---
-### **Group C Questions and Answers**
 
 **Question 13**  
 What is the diffusion of innovation? Discuss its impact on market adaptation.  
