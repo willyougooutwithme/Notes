@@ -1,4 +1,4 @@
-Here are the answers to **Questions 1 to 10** based on the provided study materials:
+## **Group B**
 
 ---
 
