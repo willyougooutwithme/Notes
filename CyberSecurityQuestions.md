@@ -125,9 +125,6 @@ Cybersquatting is illegal under the Anticybersquatting Consumer Protection Act (
 
 --- 
 
-Here are the answers for **Group B (Short Answer Type)** questions 11 to 20:
-
----
 
 ### **11. Differentiate between worms and viruses.**  
 ### Worms vs. Viruses  
