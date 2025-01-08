@@ -130,16 +130,20 @@ Here are the answers for **Group B (Short Answer Type)** questions 11 to 20:
 ---
 
 ### **11. Differentiate between worms and viruses.**  
-**Worms:**  
-- Standalone malicious programs that self-replicate and spread across networks without user interaction.  
-- Exploit vulnerabilities in systems to propagate.  
-- Examples: Code Red, WannaCry.  
+### Worms vs. Viruses  
 
-**Viruses:**  
-- Attach themselves to host programs or files and require execution to activate.  
-- Often spread via infected files or removable media.  
-- Examples: ILOVEYOU virus, Melissa virus.
+1. **Definition**:  
+   - **Worms**: Standalone malware that self-replicates and spreads without a host file.  
+   - **Viruses**: Malicious code that attaches to a host file and spreads via user interaction.  
 
+2. **Propagation**:  
+   - **Worms**: Spread autonomously via networks or exploits.  
+   - **Viruses**: Spread when infected files are executed or shared.  
+
+3. **Damage**:  
+   - **Worms**: Consume network resources; may carry harmful payloads.  
+   - **Viruses**: Damage or alter files and require activation to spread.
+   - 
 ---
 
 ### **12. What are the characteristics of a strong password?**  
@@ -157,9 +161,11 @@ A strong password:
 **Social engineering** manipulates individuals into revealing confidential information or performing actions beneficial to the attacker.  
 
 **Techniques:**  
-- **Phishing:** Fake emails or websites mimicking legitimate ones to steal credentials.  
-- **Pretexting:** Creating a false scenario to extract sensitive data.  
-- **Tailgating:** Following someone into a restricted area without proper authentication.  
+1. **Phishing**: A cyberattack that uses deceptive emails or websites to trick individuals into sharing sensitive information like passwords or credit card details. It often relies on urgency or fear to manipulate victims.  
+
+2. **Pretexting**: An attacker creates a fake but convincing scenario to gain a victim's trust and extract private information. It often involves impersonation, such as posing as a bank representative.  
+
+3. **Tailgating**: An unauthorized person follows someone with legitimate access into a secure area, often exploiting human courtesy like holding doors open. This bypasses physical security protocols.   
 
 **Example:** An attacker calls a company employee pretending to be IT support and requests their password.
 
@@ -222,18 +228,13 @@ Passive sniffing is non-intrusive, while active sniffing alters or disrupts netw
 
 ---
 
-### **19. Discuss the importance of backup in cybersecurity.**  
-Backups are critical for protecting data from loss or corruption due to cyberattacks, hardware failures, or accidental deletion.  
+### **19. Discuss backup and its importance in cybersecurity.**  
+**Backup**: A backup is a copy of data stored separately to restore it in case of data loss, corruption, or cyberattacks. It can be stored on physical devices (e.g., external drives) or cloud services.  
 
-**Importance:**  
-- **Disaster Recovery:** Restores data after ransomware attacks or natural disasters.  
-- **Business Continuity:** Minimizes downtime during incidents.  
-- **Compliance:** Meets regulatory requirements for data preservation.  
-
-**Best Practices:**  
-- Regularly schedule backups.  
-- Store backups in multiple locations, including offline and cloud-based solutions.  
-- Encrypt backup data for additional security.
+**Importance in Cybersecurity**:  
+1. **Data Recovery**: Protects against accidental deletion, hardware failure, or ransomware attacks by enabling data restoration.  
+2. **Business Continuity**: Ensures minimal downtime and operational resilience during cyber incidents or disasters.  
+3. **Safeguard Against Attacks**: Mitigates the impact of malware, ransomware, or breaches by providing clean copies of critical data.  
 
 ---
 
