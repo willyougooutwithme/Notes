@@ -249,7 +249,7 @@ Passive sniffing is non-intrusive, while active sniffing alters or disrupts netw
 
 --- 
 
-##Group C (Long Answer Type)
+## **Group C (Long Answer Type)**
 
 ### **1. Discuss the architecture and functioning of a firewall. Explain its importance in network security.**
 
