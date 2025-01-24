@@ -64,8 +64,14 @@ Listening to other people’s problems and offering them a little bit of advice 
 
 **Lately, I’ve been feeling better overall**, but I’ve started thinking about my ex again. In late December and early January, I wasn’t dwelling on her much, but now, **memories of the happy moments we shared have been surfacing more often.** I’ve been reflecting on how good she made me feel and wondering if I unknowingly did something to set off the chain of events that led to our breakup. However, at the end of the day, it was her choice to move on and be with someone else, even while insisting that I still held significance in her life. **I haven’t been able to forgive her for that or fully let go of the resentment.** I want to move on, but my mind keeps circling back to it, refusing to let it go.  
 
-On another note, the medicine I’m taking has cleared up my **brain fog**, and I feel like I’m seeing the people in my life from a new perspective. **It’s been unsettling in some ways.** One friend dismissed my medication as just “dopamine therapy,” as if I’m only taking it for a quick happiness fix, which stung a bit. Another person, whom I trusted deeply, and thought would always be there for me, seemed to forget about me completely once they got into a relationship. **It felt like I stopped existing to them.** Amid all this, the only positive connection I’ve recently formed is with my cousin. Out of nowhere, we started talking, and we just clicked. **We’ve connected on so many levels, and it feels like we’ve become best friends.**  
+### On another note, the medicine I’m taking has cleared up my **brain fog**, and I feel like I’m seeing the people in my life from a new perspective. 
+**It’s been unsettling in some ways.** One friend dismissed my medication as just “dopamine therapy,” as if I’m only taking it for a quick happiness fix, which stung a bit. 
 
-Lastly, I’ve noticed that my medicines affect my mood differently throughout the day. The **afternoon dose tends to lift my spirits**, but the night dose has the opposite effect—it makes me sad and overthink everything. Even when I’m sleepy, I struggle to fall asleep because my mind won’t stop racing.  
+Another person, whom I trusted deeply, and thought would always be there for me, seemed to forget about me completely once they got into a relationship. **It felt like I stopped existing to them.** 
+### Amid all this, the only positive connection I’ve recently formed is with my cousin, Mimi. We’ve always been close, and in every family gathering, I’d find her there—she made those events tolerable. Although we lost touch a couple of times, in the last few months, we’ve reconnected, and it feels like I’ve known her forever (for all intents and purposes, I really do, lmao). She and my Meaw Shona have been the only bright spots I can look to lately.
+
+### Additionally, I’ve started reaching out to old friends. I’m not entirely sure why—maybe it’s just for a sense of familiarity. 
+
+### Lastly, I’ve noticed that my medicines affect my mood differently throughout the day. The **afternoon dose tends to lift my spirits**, but the night dose has the opposite effect—it makes me sad and overthink everything. Even when I’m sleepy, I struggle to fall asleep because my mind won’t stop racing.  
 
 ---  
