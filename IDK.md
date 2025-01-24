@@ -71,6 +71,7 @@ Another person, whom I trusted deeply, and thought would always be there for me,
 ### Amid all this, the only positive connection I’ve recently formed is with my cousin, Mimi. We’ve always been close, and in every family gathering, I’d find her there—she made those events tolerable. Although we lost touch a couple of times, in the last few months, we’ve reconnected, and it feels like I’ve known her forever (for all intents and purposes, I really do, lmao). She and my Meaw Shona have been the only bright spots I can look to lately.
 
 ### Additionally, I’ve started reaching out to old friends. I’m not entirely sure why—maybe it’s just for a sense of familiarity. 
+#### I have started to feel lonely and desire companionship
 
 ### Lastly, I’ve noticed that my medicines affect my mood differently throughout the day. The **afternoon dose tends to lift my spirits**, but the night dose has the opposite effect—it makes me sad and overthink everything. Even when I’m sleepy, I struggle to fall asleep because my mind won’t stop racing.  
 
